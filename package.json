@@ -34,7 +34,7 @@
     "deep-extend": "^0.6.0",
     "mensch": "^0.3.3",
     "slick": "^1.12.2",
-    "web-resource-inliner": "^4.3.1"
+    "web-resource-inliner": "github:erapoport/web-resource-inliner#1666528d2fb0eed0df217358c8dcb3c4370f5a6b"
   },
   "devDependencies": {
     "batch": "0.5.3",
